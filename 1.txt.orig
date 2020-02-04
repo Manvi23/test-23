@@ -1,0 +1,9 @@
+something
+
+<<<<<<< df2aa78007e3b68b30253664af660cd977bd3764
+changed1
+changed2
+=======
+hello1
+hello2
+>>>>>>> merge conflict testing by user2
